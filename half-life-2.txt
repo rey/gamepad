@@ -1,0 +1,14 @@
+--------------------------------
+HALF LIFE 2
+--------------------------------
+button          action
+--------------------------------
+X-Rotation      Mouse Right/Left
+Y-Rotation      Mouse Up/Down
+Z-Rotation      Mouse Left Click
+3               e
+6               r
+12              w
+13              s
+14              a
+15              d
