@@ -6,8 +6,18 @@ button          action
 X-Rotation      Mouse Right/Left
 Y-Rotation      Mouse Up/Down
 Z-Rotation      Mouse Left Click
-3               e
-6               r
+Z-Axis          Mouse Right Click
+1               Spacebar
+2               R
+3               E
+4               F
+5               Shift
+6               G
+7
+8               Ctrl
+9               Esc
+10
+11
 12              w
 13              s
 14              a
